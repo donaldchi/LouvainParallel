@@ -1,0 +1,9 @@
+*.tree
+*.e*
+*.o*
+*.bin
+*.txt
+*.sh
+*.h
+*.cc
+*.csv

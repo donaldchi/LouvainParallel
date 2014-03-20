@@ -1,0 +1,120 @@
+Check args!
+nb_nodes = 9377
+total_weight = 12225.0
+PlaceNum::2
+-------------------------------------------------------------------------------------------------------------
+level: 0
+start computation
+network size:9376 nodes, 12225 links, 12225.0 weight.
+Pass::1, mod::0.378477714629815
+Init::0ms
+Compute::62ms
+Communicate::7423ms
+Pass::2, mod::0.437032243926703
+Init::4ms
+Compute::15ms
+Communicate::7425ms
+Pass::3, mod::0.445288308429618
+Init::4ms
+Compute::15ms
+Communicate::7490ms
+Pass::4, mod::0.450158405158889
+Init::4ms
+Compute::7ms
+Communicate::7486ms
+Pass::5, mod::0.461089547133037
+Init::4ms
+Compute::9ms
+Communicate::7489ms
+Pass::6, mod::0.461834368374167
+Init::3ms
+Compute::14ms
+Communicate::7496ms
+Pass::7, mod::0.468243434913702
+Init::4ms
+Compute::11ms
+Communicate::7629ms
+Pass::8, mod::0.468077232865366
+Init::5ms
+Compute::6ms
+Communicate::7568ms
+It used 60215ms to Compute
+It used 15ms to Reset
+mod -> new_mod: 0.00477670133531->0.468077232865366
+-------------------------------------------------------------------------------------------------------------
+level: 1
+start computation
+network size:521 nodes, 4234 links, 12225.0 weight.
+Pass::1, mod::0.46850961647032
+Init::0ms
+Compute::1ms
+Communicate::112ms
+Pass::2, mod::0.539597870534164
+Init::1ms
+Compute::3ms
+Communicate::112ms
+Pass::3, mod::0.558721738366768
+Init::0ms
+Compute::3ms
+Communicate::112ms
+Pass::4, mod::0.559151699767063
+Init::1ms
+Compute::2ms
+Communicate::110ms
+Pass::5, mod::0.559127303749984
+Init::2ms
+Compute::2ms
+Communicate::111ms
+It used 574ms to Compute
+It used 2ms to Reset
+mod -> new_mod: 0.468077232865366->0.559127303749984
+-------------------------------------------------------------------------------------------------------------
+level: 2
+start computation
+network size:76 nodes, 1438 links, 12225.0 weight.
+Pass::1, mod::0.568561248907457
+Init::0ms
+Compute::1ms
+Communicate::10ms
+Pass::2, mod::0.574897461954408
+Init::0ms
+Compute::1ms
+Communicate::10ms
+Pass::3, mod::0.570510541525002
+Init::0ms
+Compute::1ms
+Communicate::9ms
+It used 32ms to Compute
+It used 2ms to Reset
+mod -> new_mod: 0.559127303749984->0.570510541525002
+-------------------------------------------------------------------------------------------------------------
+level: 3
+start computation
+network size:19 nodes, 247 links, 12225.0 weight.
+Pass::1, mod::0.571937969479887
+Init::0ms
+Compute::1ms
+Communicate::2ms
+Pass::2, mod::0.57076099213369
+Init::0ms
+Compute::1ms
+Communicate::2ms
+It used 6ms to Compute
+It used 0ms to Reset
+mod -> new_mod: 0.570510541525002->0.57076099213369
+-------------------------------------------------------------------------------------------------------------
+level: 4
+start computation
+network size:14 nodes, 174 links, 12225.0 weight.
+Pass::1, mod::0.57076099213369
+Init::0ms
+Compute::1ms
+Communicate::2ms
+It used 3ms to Compute
+It used 0ms to Reset
+mod -> new_mod: 0.57076099213369->0.57076099213369
+Read: 147ms
+Compute: 60830ms
+Reset: 19ms
+All: 60996ms
+0.57076099213369
